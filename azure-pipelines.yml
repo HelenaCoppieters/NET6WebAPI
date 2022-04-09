@@ -44,3 +44,4 @@ steps:
     azureSubscription: $(azureSPNName) #this is the name of the SPN
     appName: $(azureAppServiceName) #App Service's unique name
     package: $(Build.ArtifactStagingDirectory)/**/*.zip
+    runtimeStack: 'DOTNETCORE|6.0'
