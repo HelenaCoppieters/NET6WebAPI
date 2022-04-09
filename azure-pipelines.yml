@@ -12,7 +12,7 @@ variables:
   dotNetVersion: '6.0.x'
   targetRuntime: 'linux-x64'
   azureSPNName: 'Sandbox Helena(b60b0170-c839-4919-9590-87227a7e6221)' #get it from your AzureDevOps portal
-  azureAppServiceName: 'dev-we-net6app' #get it from your Azure portal
+  azureAppServiceName: 'dev-we-webappnet6' #get it from your Azure portal
 
 # Build the app for .NET 6 framework
 steps:
