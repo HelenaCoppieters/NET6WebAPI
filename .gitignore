@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/WebAPI.Net6/bin
+/WebAPI.Net6/obj
+/WebAPI.Net6/Properties/ServiceDependencies
+/WebAPI.Net6/Properties/PublishProfiles
